@@ -1,4 +1,4 @@
-from bot import greet_user, get_user_input, respond_to_query, disclaimer, speak
+from bot import greet_user, respond_to_query, disclaimer, speak
 
 
 def get_user_input():
