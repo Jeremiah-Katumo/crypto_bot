@@ -39,3 +39,4 @@ def respond_to_query(query):
 
 def disclaimer():
     speak("Crypto investments are risky. Always do your own research before investing!")
+    
